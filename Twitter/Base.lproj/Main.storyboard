@@ -74,7 +74,7 @@
                                             <rect key="frame" x="16" y="11" width="65" height="65"/>
                                             <constraints>
                                                 <constraint firstAttribute="width" constant="65" id="apw-bW-iqt"/>
-                                                <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="70" id="d33-1h-H3c"/>
+                                                <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="65" id="d33-1h-H3c"/>
                                                 <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="65" id="kL9-W8-oJw"/>
                                                 <constraint firstAttribute="height" constant="65" id="os2-Dk-aJJ"/>
                                                 <constraint firstAttribute="height" relation="lessThanOrEqual" constant="65" id="thN-Bb-Gtf"/>
